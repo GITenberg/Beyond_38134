@@ -1,0 +1,26 @@
+_repo: Beyond_38134
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38134-h/images/hcover.jpg
+creator:
+  author:
+    agent_name: Hubbard, Henry Seward
+    birthdate: 1854
+    gutenberg_agent_id: '39259'
+    url: http://www.gutenberg.org/2009/agents/39259
+description: ''
+gutenberg_issued: '2011-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38134'
+  lccn: '20013242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Parapsychology'
+title: Beyond
+url: http://www.gutenberg.org/ebooks/38134
